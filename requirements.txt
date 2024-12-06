@@ -16,6 +16,7 @@ pytorch-lightning>=1.0.8
 einops
 PyWavelets>=1.1.1
 git+https://github.com/fbcotter/pytorch_wavelets
-
 matplotlib
 scipy
+openai-clip
+xformers
